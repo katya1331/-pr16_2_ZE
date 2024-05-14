@@ -1,0 +1,8 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4pr16\bin\Debug\zad4pr16.exe.config
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4pr16\bin\Debug\zad4pr16.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4pr16\bin\Debug\zad4pr16.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4pr16\obj\Debug\zad4pr16.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4pr16\obj\Debug\zad4pr16.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4pr16\obj\Debug\zad4pr16.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4pr16\obj\Debug\zad4pr16.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\zad4pr16\obj\Debug\zad4pr16.pdb
